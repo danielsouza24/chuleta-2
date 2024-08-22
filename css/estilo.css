@@ -1,0 +1,17 @@
+/* definindo nosso estilo do projeto...*/
+
+@charset "utf8";
+body{margin-top: 40px;padding-top: 40px;}.fundofixo{background: url('../images/churrascaria.jpg') no-repeat fixed;-webkit-background-size: cover; background-size: cover;
+}
+.fundo-branco{
+    background-color: aliceblue;
+}
+/*.minha-cor{
+    background-color: yellowgreen;
+    color
+}
+*/
+#calendar {
+    max-width: 1100px;
+    margin: 0 auto;
+}
